@@ -1,0 +1,80 @@
+Skip to content
+This repository
+Search
+Pull requests
+Issues
+Gist
+ @lancecopper
+ Unwatch 1
+  Star 0
+  Fork 0 lancecopper/SICP
+ Code  Issues 0  Pull requests 0  Wiki  Pulse  Graphs  Settings
+Branch: master Find file Copy pathSICP/.gitignore
+18c1ce5  18 days ago
+ lancecopper create repo
+0 contributors
+RawBlameHistory    63 lines (52 sloc)  566 Bytes
+*.py[cod]
+
+test.db
+test.txt
+sina.html
+*.*~
+*~
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+__pycache__
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+
+######################
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+dist
+MANIFEST
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+# Virtual environment
+venv
+
+# database script
+*.sql
+Status API Training Shop Blog About
+© 2016 GitHub, Inc. Terms Privacy Security Contact Help

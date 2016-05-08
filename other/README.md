@@ -1,0 +1,1 @@
+# exercises during reading SICP
